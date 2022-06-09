@@ -51,7 +51,13 @@ h4 {
     padding: 20px;
 }
 
-/* styles for the grouping selector section */
-div#mainContainer {
+/* styles for the grouping selector section
+just seperate thing that you want to look the same by a ,*/
 
+/* below shows how to center everything to the middle of the browser and it will adjust with the browser. 
+auto means the browser will determine its own equal middle. */
+div#mainContainer {
+    margin: 0 auto;
+    padding: 0 0 10px;
+    width: 960px;
 }
