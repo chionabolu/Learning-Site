@@ -1,0 +1,33 @@
+body {
+    background-color: oldlace;
+    color: #333;
+}
+
+h1 {
+font-size: 50px;
+font-family:'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-size: 30px;
+    font-family:'Lucida Sans', Geneva, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-style:italic;
+}
+
+ol {
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Styles for the ID & Class section */
+nav#nav-bar {
+    font-size: 15px;
+    background: black;
+    color: #fc3;
+    padding: 10px;
+    margin: 20px;
+}
